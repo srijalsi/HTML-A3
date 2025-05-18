@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(https://wallpaperaccess.com/full/2690784.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0px;
+    /* height: 100%; */
+    background-position: center;
+    /* border: 3px solid rgb(150, 129, 169); */
+    background-repeat: repeat;
+ }
+ .nav_bar{
+    /* background-color:dodgerblue; */
+    display: flex;
+    justify-content: space-between;
+ }
+ .nav-elements{
+    margin: 20px;
+    border: 2px solid rgba(245, 245, 245, 0.588);
+    border-radius: 5px;
+    background-color: rgba(212, 144, 212, 0.755);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    text-transform: capitalize;
+ }
+ .main_heading{
+    color: rgb(240, 236, 236);
+    justify-content: space-between;
+    font-weight: bolder;
+ }  
+ .head1{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgba(20, 173, 76, 0.598);
+    border: 5px solid white;
+    border-radius: 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+ }
+ .form_main{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+ }
+ 
+ .form{
+    color: violet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    border: 5px solid rgba(79, 153, 10, 0.371);
+    text-align: center;
+    height: 615px;
+ }
+ .circle{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 100px;
+ }
+ .circle{
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 300px;
+    text-align: center;
+    font-family:  'Times New Roman', serif;
+    font-weight: bolder;
+    color: rgb(253, 84, 0);
+    background-color: rgba(238, 130, 238, 0.284);
+    border-radius: 250px;
+ }
+ .head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ .menu1{
+    font-size:larger ;
+    position: relative;
+    color: aliceblue;
+    left: 45%;
+    top: 80px;
+    width: 200px;
+    height: 50px;
+    font-weight: bolder;
+    background-color: rgba(255, 0, 255, 0.518);
+    border: 2px solid yellow;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    z-index: 1;
+ }
+ .main_items{
+   display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 90px;
+ 
+ }
+ .items{
+    padding: -5px;
+    width: 230px;
+    height: 300px;
+    color: rgb(208, 0, 255);
+    border: 5px solid rgba(6, 80, 13, 0.543);
+    border-radius: 150px;
+    display: flex;
+    justify-content:center;
+    background-color: rgba(177, 124, 178, 0.406);
+ }
+ .main_items_2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    top: 190px;
+ }
